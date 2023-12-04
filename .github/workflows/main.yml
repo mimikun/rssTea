@@ -46,24 +46,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Run feeds.php
         run: php feeds.php
-      - name: Commit files # transfer the new html files back into the repository
+        # transfer the new html files back into the repository
+      - name: Commit files
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add --all
           git commit -m "Updating the repository"
-      - name: Push changes # push the output folder to your repo
+        # push the output folder to your repo
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true     
+          force: true
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
           path: './public'
