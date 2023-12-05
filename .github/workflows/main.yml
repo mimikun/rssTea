@@ -3,13 +3,14 @@ name: Fetch new feeds and push content to Github Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["master"]
     paths:
       - "feeds.php"
       - "base.html"
 
+  # every 4 hour
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */4 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
