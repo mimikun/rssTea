@@ -57,3 +57,11 @@ https://adventar.org/calendars/9660.rss
 https://adventar.org/calendars/9517.rss
 https://adventar.org/calendars/8960.rss
 https://adventar.org/calendars/8761.rss
+https://adventar.org/calendars/8729.rss
+https://qiita.com/advent-calendar/2023/shell/feed
+https://qiita.com/advent-calendar/2023/qt/feed
+https://qiita.com/advent-calendar/2023/hikky/feed
+https://qiita.com/advent-calendar/2023/vim/feed
+https://qiita.com/advent-calendar/2023/kuso-app/feed
+https://qiita.com/advent-calendar/2023/yaminomajutu/feed
+https://qiita.com/advent-calendar/2023/yarakashi/feed
