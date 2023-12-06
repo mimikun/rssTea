@@ -7,6 +7,6 @@ Built with [rssTea](https://github.com/avadhesh18/rssTea).
 ## my Custom
 
 - Remove podcast column
-    - I'm deaf so I don't have a chance to hear audio.
+  - I'm deaf so I don't have a chance to hear audio.
 - Display language is Japanese only
 - Change default branch name to `master`
