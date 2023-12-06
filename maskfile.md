@@ -19,7 +19,7 @@ mask copy2win-patch
 ```bash
 PRODUCT_NAME="rssTea"
 DEFAULT_REMOTE="origin"
-DEFAULT_BRANCH="main"
+DEFAULT_BRANCH="master"
 TODAY=$(date +'%Y%m%d')
 BRANCH_NAME=$(git branch --show-current)
 GPG_PUB_KEY="CCAA9E0638DF9088BB624BC37C0F8AD3FB3938FC"
@@ -56,7 +56,7 @@ git switch -c "patch-$TODAY"
 > Switch to DEFAULT branch
 
 ```bash
-DEFAULT_BRANCH="main"
+DEFAULT_BRANCH="master"
 git switch "$DEFAULT_BRANCH"
 ```
 
