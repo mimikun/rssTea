@@ -3,3 +3,5 @@ https://mshibanami.github.io/GitHubTrendingRSS/daily/rust.xml
 https://zenn.dev/feed
 https://vim-jp.org/ekiden/rss
 https://b.hatena.ne.jp/hotentry/it.rss
+https://dotfyle.com/neovim/plugins/rss.xml
+https://dotfyle.com/this-week-in-neovim/rss.xml
