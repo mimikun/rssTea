@@ -9,3 +9,4 @@ https://terminaltrove.com/new.xml
 https://qiita.com/advent-calendar/2024/vim/feed
 https://adventar.org/calendars/10040.rss
 https://github.com/yutkat/my-neovim-pluginlist/commits/main.atom
+https://console.dev/tools/rss.xml
