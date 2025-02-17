@@ -1,0 +1,12 @@
+https://mshibanami.github.io/GitHubTrendingRSS/daily/lua.xml
+https://mshibanami.github.io/GitHubTrendingRSS/daily/rust.xml
+https://zenn.dev/feed
+https://vim-jp.org/ekiden/rss
+https://b.hatena.ne.jp/hotentry/it.rss
+https://dotfyle.com/neovim/plugins/rss.xml
+https://dotfyle.com/this-week-in-neovim/rss.xml
+https://terminaltrove.com/new.xml
+https://qiita.com/advent-calendar/2024/vim/feed
+https://adventar.org/calendars/10040.rss
+https://github.com/yutkat/my-neovim-pluginlist/commits/main.atom
+https://console.dev/tools/rss.xml
