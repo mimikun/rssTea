@@ -1,0 +1,8 @@
+[default.extend-words]
+
+[files]
+extend-exclude = [
+  "public/index.html",
+  "README-original.md",
+  "feed.json",
+]
